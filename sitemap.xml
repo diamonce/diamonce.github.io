@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://nikosand.mk.ua/</loc>
+    <lastmod>2020-02-16T13:49:50+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikosand.mk.ua/tags/</loc>
+    <lastmod>2020-02-16T13:49:50+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikosand.mk.ua/contact/</loc>
+    <lastmod>2020-02-16T13:49:50+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikosand.mk.ua/cars/</loc>
+    <lastmod>2020-02-16T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikosand.mk.ua/about/</loc>
+    <lastmod>2020-02-16T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nikosand.mk.ua/series/</loc>
+  </url>
+  
+</urlset>

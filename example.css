@@ -1,0 +1,52 @@
+.icon.major.accent2 {
+  background: #0000FF;
+}
+
+.video-responsive {
+    padding-bottom: 950px;
+    position: relative;
+    width: 100%;
+}
+
+.canvas, .video {
+    left: 0;
+    position: absolute;
+    top: 0;
+    background: 
+    #000;
+    z-index: 5;
+    overflow: hidden;
+    width: 100%;
+    height: 750px;
+    object-fit: cover;
+}
+
+audio, canvas, progress, video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+#over_video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    z-index: 10;
+    color:
+    #FFF;
+}
+
+#banner h2 {
+    text-shadow: 2px 1px 1px black;
+}
+
+#banner p {
+    text-shadow: 2px 1px 1px black;
+    font-size: 2.25em;
+}
+
+#header.alt {
+    background:rgba(4, 4, 4, 0.72);
+    background-color:rgba(4, 4, 4, 0.72);
+}
