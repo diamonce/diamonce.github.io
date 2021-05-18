@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ipesok.mk.ua/</loc>
-    <lastmod>2020-02-16T13:49:50+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ipesok.mk.ua/tags/</loc>
-    <lastmod>2020-02-16T13:49:50+10:00</lastmod>
+    <loc>https://ipesok.mk.ua/diggers/</loc>
+    <lastmod>2021-05-18T10:05:49+10:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +23,15 @@
   </url>
   
   <url>
+    <loc>https://ipesok.mk.ua/</loc>
+  </url>
+  
+  <url>
     <loc>https://ipesok.mk.ua/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ipesok.mk.ua/tags/</loc>
   </url>
   
 </urlset>
